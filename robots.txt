@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ocavearu.github.io/TMx/sitemap_index.txt
+Sitemap: https://ocavearu.github.io/cUa/sitemap_index.txt
+Sitemap: https://ocavearu.github.io/efg/sitemap_index.txt
+Sitemap: https://ocavearu.github.io/lPp/sitemap_index.txt
